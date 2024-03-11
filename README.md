@@ -48,7 +48,7 @@ class EmployeeAdmin(admin.ModelAdmin):
 
 
 ## OUTPUT
-[text](README.md)
+![alt text](<Screenshot (7).png>)
 
 
 ## RESULT
